@@ -1,4 +1,4 @@
-package http
+package httphelp
 
 var StatusCodes = map[int]string{
     100: "Continue",

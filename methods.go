@@ -1,4 +1,4 @@
-package http
+package httphelp
 
 var Methods = []string{
     "get",
