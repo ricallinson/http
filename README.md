@@ -1,4 +1,3 @@
-http
-====
+# Httphelp
 
-HTTP Helpers functions and Types for Go
+HTTP Helper functions, Vars and Types for Go
