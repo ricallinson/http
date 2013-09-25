@@ -6,4 +6,4 @@ HTTP Helper functions, Vars and Types for Go.
 
 * `.Methods` A slice of all HTTP methods.
 * `.StatusCodes` A map of all HTTP status codes and their textual description.
-* `.ParseAccept` Parse an Accept Header string returning a sorted slice types.
+* `.ParseAccept()` A function to parse an accept header string returning a sorted slice types.
